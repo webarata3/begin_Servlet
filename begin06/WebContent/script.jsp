@@ -1,6 +1,6 @@
 <%@ page language="java" contentType="text/html; charset=utf-8"
-    pageEncoding="utf-8"%>
-<%@ page import="java.util.List, java.util.ArrayList"%>
+    pageEncoding="utf-8" %>
+<%@ page import="java.util.List, java.util.ArrayList" %>
 <%! int counter = 0; %>
 <%
 List<String> list = new ArrayList<>();
